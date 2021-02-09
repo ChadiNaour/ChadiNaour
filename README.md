@@ -11,7 +11,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4169E1?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/Css3-%23323330?style=flat-square&logo=Css3&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/Css6-%23323330?style=flat-square&logo=CSS6&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white"/>
