@@ -20,8 +20,8 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChadiNaour&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadiNaour&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChadiNaour&show_icons=true&theme=algolia)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadiNaour&langs_count=8&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=cnaour)](https://github.com/ChadiNaour)
 
