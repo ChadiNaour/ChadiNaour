@@ -19,7 +19,7 @@
   
 </p>
 <details>
-  <summary><b>My Github Stats</b></summary>
+  <summary><b>👨‍💻 My Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChadiNaour&theme=radical" />
   <br/>
