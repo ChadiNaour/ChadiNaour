@@ -35,10 +35,8 @@
 <h3 align="left">Connect with me :</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/chadi-naour-495506209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cnaour" height="30" width="40" /></a>
-<a src="https://www.flaticon.com/fr/icone-gratuite/gmail_281769" alt="cnaour"  height="30" width="40" href="mailto:naourchadi@gmail.com" target="_blank" rel="noopener noreferrer"></a>
+  <a href="mailto:naourchadi@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/44867969/173248274-56810d67-1340-43e4-a52c-65a365c81340.png" width="50" /></a>
+<a href="https://www.linkedin.com/in/chadi-naour-495506209/"><img src="https://user-images.githubusercontent.com/44867969/173248278-17f361c6-61f5-42fa-84c8-0e2ff8309b85.png" width="50" /></a>
 </p>
-
-
 <br />
 
