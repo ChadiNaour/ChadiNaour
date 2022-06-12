@@ -4,7 +4,7 @@
 
 </div>
 <h3 align="center">A Creative and Passionate Front-end developer</h3>
-<p align="center"> <img src="https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif" alt="cnaour" /> </p>
+<p align="center"> <img src="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023" alt="cnaour" /> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
