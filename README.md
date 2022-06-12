@@ -18,7 +18,6 @@
   
 </p>
 
-<details>	
   <summary><b>Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChadiNaour&theme=radical" />
@@ -29,12 +28,11 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChadiNaour&theme=radical"/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadiNaour&langs_count=10&theme=radical&hide=c,Makefile)](https://github.com/anuraghazra/github-readme-stats)
-</details>
 
 ### Connect with me:
 
 [<img align="left" alt="chadi | Twitter" color="white" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/chadiNaour)
-[<img align="left" alt="chadinaour | LinkedI" color="white"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chadinaour/)
+[<img align="left" alt="chadinaour | LinkedI" color="blue"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chadinaour/)
 [<img align="left" alt="chadiNaour | Instagram" color="white" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/chadiNaour/)
 
 <br />
