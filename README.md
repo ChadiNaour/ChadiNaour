@@ -19,10 +19,18 @@
   
 </p>
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChadiNaour&theme=dracula" />
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChadiNaour&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChadiNaour&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChadiNaour&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChadiNaour&theme=dracula"/>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChadiNaour&show_icons=true&theme=algolia)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadiNaour&langs_count=8&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagoumi&langs_count=10&theme=dracula&hide=c,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=cnaour)](https://github.com/ChadiNaour)
 
