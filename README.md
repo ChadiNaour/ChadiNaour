@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">A Creative and Passionate Front-end developer</h3>
 <p align="center"> <img src="https://i.makeagif.com/media/8-17-2015/ow6u2T.gif" alt="cnaour" /> </p>
-<h3>Things I code with</h3>
+<h3 align="center">Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-43853d?style=flat-square&logo=Next.js&logoColor=white" />
