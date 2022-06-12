@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Chadi Naour
+# Hello , I'm Chadi Naour ✌️
 
 </div>
 - I’m currently studying at 1337 School<br>
