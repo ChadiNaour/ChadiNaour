@@ -25,7 +25,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChadiNaour&theme=radical" />
   <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChadiNaour&theme=radical"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChadiNaour&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChadiNaour&theme=radical"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChadiNaour&theme=radical"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChadiNaour&theme=radical"/>
 
