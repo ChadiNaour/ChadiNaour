@@ -11,7 +11,6 @@
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-43853d?style=flat-square&logo=Next.js&logoColor=white" />
    <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=ReactNative&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4169E1?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1E90FF?style=flat-square&logo=Css3&logoColor=white" />
