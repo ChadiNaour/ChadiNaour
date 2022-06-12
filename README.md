@@ -36,7 +36,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chadi-naour-495506209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cnaour" height="30" width="40" /></a>
-<a href="mailto:someone@yoursite.com" target="_blank" rel="noopener noreferrer">Email Us</a>
+<a src="https://www.flaticon.com/fr/icone-gratuite/gmail_281769" alt="cnaour"  height="30" width="40" href="mailto:naourchadi@gmail.com" target="_blank" rel="noopener noreferrer"></a>
 </p>
 
 
