@@ -18,8 +18,8 @@
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
   
 </p>
-
-  <summary><b>Github Stats</b></summary>
+<details>
+  <summary><b>My Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChadiNaour&theme=radical" />
   <br/>
@@ -29,6 +29,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChadiNaour&theme=radical"/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadiNaour&langs_count=10&theme=radical&hide=c,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+  </details
 
 ### Connect with me:
 
