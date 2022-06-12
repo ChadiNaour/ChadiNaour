@@ -1,4 +1,8 @@
-<p>I'm Chadi, Fullstack developer.</p>
+<div align="center">
+
+# Hi 👋, I'm Chadi Naour
+
+</div>
 - I’m currently studying at 1337 School<br>
 - I’m currently learning everything<br>
 <h3>Things I code with</h3>
