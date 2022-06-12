@@ -36,7 +36,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chadi-naour-495506209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cnaour" height="30" width="40" /></a>
+  <a href="mailto:email@example.com" target="_blank">Send Email"</a>
 </p>
+
 
 <br />
 
