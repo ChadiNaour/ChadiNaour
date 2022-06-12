@@ -3,8 +3,7 @@
 # Hello , I'm Chadi Naour ✌️
 
 </div>
-- I’m currently studying at 1337 School<br>
-- I’m currently learning everything<br>
+<h3 align="center">A Creative and Passionate Front-end developer</h3>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
