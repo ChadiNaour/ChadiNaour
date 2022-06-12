@@ -30,8 +30,8 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChadiNaour&langs_count=10&theme=radical&hide=c,Makefile)](https://github.com/anuraghazra/github-readme-stats)
   </details
-
-<h2 align="left">Connect with me :</h2>
+<hr />
+<h1 align="left">Connect with me :</h1>
 
 [<img align="left" alt="chadi | Twitter" color="white" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/chadiNaour)
 [<img align="left" alt="chadinaour | LinkedI" color="blue"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chadinaour/)
