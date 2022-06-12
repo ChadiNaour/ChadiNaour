@@ -33,7 +33,9 @@
  <hr />
 <h3 align="left">Connect with me :</h3>
 
-[<img align="left" alt="chadinaour | LinkedI" color="#fffff"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chadinaour/)
+<p align="center">
+<a href="/chadi-naour-495506209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aeddaqqa" height="30" width="40" /></a>
+</p>
 
 <br />
 
