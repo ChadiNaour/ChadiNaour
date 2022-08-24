@@ -1,11 +1,6 @@
 <div align="center">
+<p align="center"> <img src="https://user-images.githubusercontent.com/52707617/186501720-8d44bc8a-197d-4151-a644-50c57e8a728d.png" alt="cnaour" /> </p>
 
-# Hello , I'm Chadi Naour ✌️
-<br />
-
-</div>
-<h3 align="center">A Creative and Passionate Front-end developer</h3>
-<p align="center"> <img src="https://i.makeagif.com/media/8-17-2015/ow6u2T.gif" alt="cnaour" /> </p>
 <br />
 <h3>Things I code with</h3>
 <p>
