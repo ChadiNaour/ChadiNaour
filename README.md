@@ -27,9 +27,9 @@
   </details>
   
  <hr />
-<h3 align="left">Connect with me :</h3>
+<h3 align="center">Connect with me :</h3>
 
-<p align="left">
+<p align="center">
   <a href="mailto:naourchadi@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/44867969/173248274-56810d67-1340-43e4-a52c-65a365c81340.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/chadi-naour-495506209/"><img src="https://user-images.githubusercontent.com/44867969/173248278-17f361c6-61f5-42fa-84c8-0e2ff8309b85.png" width="50" /></a>
 </p>
