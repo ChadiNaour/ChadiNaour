@@ -1,7 +1,11 @@
 <div align="center">
 <p align="center"> <img src="https://user-images.githubusercontent.com/52707617/186501720-8d44bc8a-197d-4151-a644-50c57e8a728d.png" alt="cnaour" /> </p>
+<div align="center">
 
-<br />
+
+### I am a <b>passionate and creative Front-end web developer 👨🏻‍💻 , I specialize in designing and developing clean, functional and interactive user experiences, I'm quietly confident, fast learner, and perpetually working on improving myself.
+</div>
+ <hr />
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
