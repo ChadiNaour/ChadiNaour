@@ -3,7 +3,7 @@
 <div align="center">
 
 
-### I am a <b>passionate and creative Front-end web developer 👨🏻‍💻 , I specialize in designing and developing clean, functional and interactive user experiences, I'm quietly confident, fast learner, and perpetually working on improving myself.
+### I am a <b>passionate Front-end web developer 👨🏻‍💻 with a background in UI/UX design 🎨, I specialize in designing and developing clean, responsive and interactive user experiences, I'm quietly confident, fast learner, and perpetually working on improving myself, I was & I’m still continuously learning anything I was/am interested in or noticed that it has an impact on engineering or research specially stuff related to computer science, web/mobile development and design.
 </div>
  <hr />
 <h3>Things I code with</h3>
