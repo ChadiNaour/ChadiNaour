@@ -1,5 +1,5 @@
 <div align="center">
-<p align="center">!<img src="https://user-images.githubusercontent.com/52707617/206553200-3652fcf8-10f4-4e3a-8da9-e30c9557548e.png" alt="cnaour" /> </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/52707617/206553200-3652fcf8-10f4-4e3a-8da9-e30c9557548e.png" alt="cnaour" /> </p>
 <div align=](https://web.postman.co/workspace/My-Workspace~03e94aac-f364-4e7c-8394-3bfd1a3d0fe3/request/24540320-362f5f83-b5df-41d5-9d66-b6b9bd235c1a)"center">
 
 ### I am a <b>passionate Full-stack web developer 👨🏻‍💻 with a background in UI/UX design 🎨, I specialize in designing and developing elegant, responsive and interactive Digital experiences, I'm quietly confident, fast learner, and perpetually working on improving myself, I was & I’m still continuously learning anything I was/am interested in or noticed that it has an impact on engineering or research specially stuff related to computer science, web/mobile development and design.
